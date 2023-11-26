@@ -1,12 +1,8 @@
 # spam-email-classifier
 
-Absolutely, here's a README template for a Spam Email Classifier using the K-Nearest Neighbors (KNN) algorithm:
-
----
 
 # Spam Email Classifier using K-Nearest Neighbors (KNN)
 
-![Project Image](url_to_project_image)
 
 This project aims to classify emails as either spam or non-spam (ham) using the K-Nearest Neighbors algorithm. The classifier identifies patterns in email content and metadata to predict whether an email is likely to be spam or not.
 
